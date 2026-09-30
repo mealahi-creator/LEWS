@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and the USGS data release."
+title: "SAVE-LEWS: code, data and results for physics-guided prediction from low-cost IoT soil-moisture sensors for landslide early warning"
+type: software
+license: MIT
+repository-code: "https://github.com/YOUR-ACCOUNT/SAVE-LEWS"
+authors:
+  - family-names: "Author 1 [replace]"
+    given-names: ""
+  - family-names: "Alahi"
+    given-names: "Md Eshrat E"
+    affiliation: "School of Engineering and Technology, Walailak University, Thailand"
+keywords: [landslide early warning, low-cost IoT, soil moisture, physics-informed neural network, Richards equation, LoRaWAN]
+preferred-citation:
+  type: article
+  title: "Physics-guided prediction from low-cost IoT soil-moisture sensors for landslide early warning: matching the level of physics to what the sensor observes"
+  authors:
+    - family-names: "Alahi"
+      given-names: "Md Eshrat E"
+  journal: "Landslides"
+  year: 2026
+  notes: "Submitted; update authors, volume and DOI on acceptance"
+references:
+  - type: data
+    title: "Hillslope hydrologic monitoring data following Hurricane Maria in 2017, Puerto Rico, July 2018 to June 2020"
+    authors:
+      - {family-names: Smith, given-names: J.B.}
+      - {family-names: Thomas, given-names: M.A.}
+      - {family-names: Ashland, given-names: F.}
+      - {family-names: Michel, given-names: A.}
+      - {family-names: Mirus, given-names: B.B.}
+      - {family-names: Wayllace, given-names: A.}
+    publisher: {name: "U.S. Geological Survey"}
+    year: 2020
+    doi: "10.5066/P9548YK2"
